@@ -1,8 +1,8 @@
 
 <div align="center"> 
-<strong>JUNE X </strong>
+<strong>𝚟𝚒𝚛𝚞𝚜 𝚝𝚑𝚎 𝚐𝚊𝚖𝚎𝚛 🎮</strong>
     <br>
-  <a href="https://git.io/typing-svg"> 
+  <a href="https://files.catbox.moe/se5e6e.jpg"> 
     <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=June-Official;Multi+Device+Whatsapp+Bot;Made+by+supreme" alt="Typing SVG" />
   </a> 
 </div> 
