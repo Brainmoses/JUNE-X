@@ -2,21 +2,7 @@
 <div align="center"> 
 <strong>
 ╭━━╮
-╰┃┃╯
-╭┃┃╮
-╰━━╯
-╭━━━┳━╮╭━╮
-┃╭━╮┃┃╰╯┃┃
-┃┃╱┃┃╭╮╭╮┃
-┃╰━╯┃┃┃┃┃┃
-┃╭━╮┃┃┃┃┃┃
-╰╯╱╰┻╯╰╯╰╯ 
-╭╮╱╱╭┳━━┳━━━┳╮╱╭┳━━━╮
-┃╰╮╭╯┣┫┣┫╭━╮┃┃╱┃┃╭━╮┃
-╰╮┃┃╭╯┃┃┃╰━╯┃┃╱┃┃╰━━╮
-╱┃╰╯┃╱┃┃┃╭╮╭┫┃╱┃┣━━╮┃
-╱╰╮╭╯╭┫┣┫┃┃╰┫╰━╯┃╰━╯┃
-╱╱╰╯╱╰━━┻╯╰━┻━━━┻━━━╯ 🎮</strong>
+╰┃┃╯━━━┻━━━╯ᏉᎥᏒᏬᎦ🌏</strong>
     <br>
   <a href="https://files.catbox.moe/se5e6e.jpg"> 
     <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=June-Official;Multi+Device+Whatsapp+Bot;Made+by+supreme" alt="Typing SVG" />
@@ -25,7 +11,7 @@
 
 <div align="center"> 
   <a href=""> 
-    <img src="https://files.catbox.moe/se5e6e.jpg" alt="JUNE X" height="300"> 
+    <img src="https://files.catbox.moe/se5e6e.jpg" alt="𝐰𝐨𝐫𝐥𝐝 ᗷOՏՏ 𝐵𝐾𝑀" height="300"> 
   </a> 
 </div>
 
