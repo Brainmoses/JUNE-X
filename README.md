@@ -11,7 +11,7 @@
 
 <div align="center"> 
   <a href=""> 
-    <img src="https://files.catbox.moe/se5e6e.jpg" alt="𝐰𝐨𝐫𝐥𝐝 ᗷOՏՏ 𝐵𝐾𝑀" height="300"> 
+    <img src="https://files.catbox.moe/ify6jm.jpg" alt="𝐰𝐨𝐫𝐥𝐝 ᗷOՏՏ 𝐵𝐾𝑀" height="1000"> 
   </a> 
 </div>
 
